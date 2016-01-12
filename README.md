@@ -32,10 +32,7 @@ Time spent: 7
 - [ ] User can connect to the server using an FTP client
 
 
-### Walkthrough
 
-`<Add your Walkthrough Gif here (by updating the image URL)>`
-![Video Walkthrough](https://github.com/gurucharan1002/dropbox-demo/blob/master/assignment2_updated.gif)
 
 
 
