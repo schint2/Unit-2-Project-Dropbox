@@ -1,0 +1,26 @@
+{
+  "name": "dropbox-likedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node -- --stage 1 --optional strict -- index.js --dirname /Users/gshiri1/training/dropbox-likedemo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^0.21.0",
+    "bluebird": "^3.1.1",
+    "bluebird-nodeify": "^1.0.0",
+    "chokidar": "^1.4.2",
+    "express": "^4.13.3",
+    "json-over-tcp": "^0.3.2",
+    "mime-types": "^2.1.9",
+    "mkdirp": "^0.5.1",
+    "morgan": "^1.6.1",
+    "rimraf": "^2.5.0",
+    "songbird": "^1.0.1",
+    "yargs": "^3.31.0"
+  }
+}
